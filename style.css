@@ -1,0 +1,12 @@
+.container{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+    /* text-align: center; */
+}
+
+input[type="number"] {
+    margin-bottom: 10px;
+  }
